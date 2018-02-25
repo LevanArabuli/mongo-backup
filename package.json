@@ -1,0 +1,12 @@
+{
+  "name": "mongobackup",
+  "version": "1.0.0",
+  "description": "backup mongodb to s3",
+  "main": "app.js",
+  "dependencies": {
+    "mongo-s3": "^1.2.0"
+  },
+  "repository": {
+  },
+  "license": "ISC"
+}
